@@ -1,0 +1,8 @@
+my_string = input('Введите имя и ничего не произойдёт: ')
+my_string = ("Здесь могла быть реклама Urban")
+print(len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.replace(' ', '#'))
+print(my_string.find('З'))
+print(my_string.find('n'))
